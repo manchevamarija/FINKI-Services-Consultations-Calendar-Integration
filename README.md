@@ -1,4 +1,4 @@
-# FINKI Consultations Calendar Integration
+# FINKI-Services Consultations-Calendar Integration
 
 I extended the FINKI consultations system with calendar synchronization support for professors and calendar invitation support for students.
 
